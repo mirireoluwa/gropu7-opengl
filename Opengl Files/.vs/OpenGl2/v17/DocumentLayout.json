@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\ShaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:ShaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:stb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\ShaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:ShaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA88EE65-33C8-4704-948E-2FF771D76056}|OpenGl2.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VAO.cpp",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VAO.cpp",
+              "RelativeDocumentMoniker": "VAO.cpp",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VAO.cpp",
+              "RelativeToolTip": "VAO.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T18:00:54.149Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Texture.h",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\Texture.h",
+              "RelativeDocumentMoniker": "Texture.h",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\Texture.h",
+              "RelativeToolTip": "Texture.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T18:25:11.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\Texture.cpp",
+              "RelativeDocumentMoniker": "Texture.cpp",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\Texture.cpp",
+              "RelativeToolTip": "Texture.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T18:24:36.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VBO.h",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VBO.h",
+              "RelativeDocumentMoniker": "VBO.h",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VBO.h",
+              "RelativeToolTip": "VBO.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T17:59:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShaderClass.h",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\ShaderClass.h",
+              "RelativeDocumentMoniker": "ShaderClass.h",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\ShaderClass.h",
+              "RelativeToolTip": "ShaderClass.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T17:43:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "default.vert",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T17:37:53.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "default.frag",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T17:41:37.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EBO.cpp",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\EBO.cpp",
+              "RelativeDocumentMoniker": "EBO.cpp",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\EBO.cpp",
+              "RelativeToolTip": "EBO.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T17:59:48.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAALwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T17:25:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EBO.h",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\EBO.h",
+              "RelativeDocumentMoniker": "EBO.h",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\EBO.h",
+              "RelativeToolTip": "EBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T18:00:00.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VBO.cpp",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VBO.cpp",
+              "RelativeDocumentMoniker": "VBO.cpp",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\VBO.cpp",
+              "RelativeToolTip": "VBO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T17:59:22.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShaderClass.cpp",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\ShaderClass.cpp",
+              "RelativeDocumentMoniker": "ShaderClass.cpp",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\ShaderClass.cpp",
+              "RelativeToolTip": "ShaderClass.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAWwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T17:50:21.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stb.cpp",
+              "DocumentMoniker": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\stb.cpp",
+              "RelativeDocumentMoniker": "stb.cpp",
+              "ToolTip": "C:\\Users\\Precious Uwadone\\source\\repos\\OpenGl2\\stb.cpp",
+              "RelativeToolTip": "stb.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T18:23:22.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
